@@ -1,0 +1,14 @@
+package accessmodifier;
+
+public class Vechexample {
+	public static void main(String[] args) {
+		Vehicle v1 = new Vehicle();
+		
+		v1.setVehNumber("MP04VE9596");
+		v1.setVehPrice("150000");
+		v1.setVehModel("shine");
+		System.out.println(v1.toString());
+		
+	}
+
+}

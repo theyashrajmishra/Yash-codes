@@ -1,0 +1,11 @@
+package conctructor;
+
+public class Emp {
+public static void main(String[] args) {
+	Employee E1 = new Employee() ;
+	E1.Id = 101;
+	
+	
+	E1.display();
+}
+}
