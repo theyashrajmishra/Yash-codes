@@ -1,0 +1,10 @@
+package isarelationship;
+
+public class Main {
+public static void main(String[] args) {
+	Appliance a= new Appliance();
+	a.setBrandName("voltas");
+	a.setPrice(42000);
+	System.out.println(a);
+}
+}
