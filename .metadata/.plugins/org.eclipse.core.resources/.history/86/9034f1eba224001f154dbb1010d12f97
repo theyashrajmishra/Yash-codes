@@ -1,7 +1,0 @@
-package javabeam;
-
-public class Employee {
-	private String empId;
-	
-
-}

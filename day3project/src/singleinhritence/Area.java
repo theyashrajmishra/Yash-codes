@@ -14,7 +14,7 @@ public class Area{
 		
 		
 		
-	public static int circle(int r) {
+        public static int circle(int r) {
 		return 3.14*r*r;
 		int r=5;
 		int y= circle(r);

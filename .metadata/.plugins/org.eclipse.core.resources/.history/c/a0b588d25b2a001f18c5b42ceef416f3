@@ -1,0 +1,13 @@
+package thiskeyword;
+
+public class Bike {
+ public Bike() {
+	 this(100);
+ }
+ public Bike (int speed) {
+	 System.out.println("100 ki speed"+speed);
+ }
+ public static void main(String[] args) {
+	Bike ninja = new Bike(500);
+}
+}

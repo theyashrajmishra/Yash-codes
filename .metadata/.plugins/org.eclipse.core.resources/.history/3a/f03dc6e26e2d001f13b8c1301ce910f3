@@ -1,0 +1,9 @@
+package array;
+
+public class Demo {
+public static void main(String[] args) {
+	int tt [] = {34,23,3,53,21,6,2};
+	reverse(tt, tt.length);
+	System.out.println(tt.length);
+}
+}

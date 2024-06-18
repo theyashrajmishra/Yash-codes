@@ -1,7 +1,0 @@
-package Hasarelationship;
-
-public class Address {
-	private city
-	private state; 
-
-}

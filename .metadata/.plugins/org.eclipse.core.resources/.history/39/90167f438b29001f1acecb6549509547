@@ -1,0 +1,13 @@
+package statickeyword;
+
+public class Counter {
+ int count  = 0;
+ public Counter () {
+	 count++ ;
+	 System.out.println(count);
+	
+ }
+ public static void main(String[] args) {
+	Counter c = new Counter();
+}
+}
