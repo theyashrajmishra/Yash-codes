@@ -3,4 +3,6 @@
     <fullyQualifiedTypeName name="overload.Axis"/>
     <fullyQualifiedTypeName name="isarelationship.Main"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
 </qualifiedTypeNameHistroy>
